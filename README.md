@@ -16,7 +16,7 @@ PYTHON,JUPYTER
 
 ## Running the tests
 
-After writing the codes there was no error so i just finished it as fast i could and completed the project 
+After writing the codes there was no error so i just finished it as fast i could and completed the project. 
 
 ## Authors
 
